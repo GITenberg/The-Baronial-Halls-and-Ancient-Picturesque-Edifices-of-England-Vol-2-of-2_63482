@@ -1,0 +1,29 @@
+_repo: The-Baronial-Halls-and-Ancient-Picturesque-Edifices-of-England-Vol-2-of-2_63482
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, S. C. (Samuel Carter)
+    aliases:
+    - Hall, S.C.
+    - Hall, Samuel Carter
+    birthdate: 1800
+    deathdate: 1889
+    gutenberg_agent_id: '46274'
+    url: http://www.gutenberg.org/2009/agents/46274
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Carter_Hall
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63482'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historic buildings -- England'
+- !lcc 'DA'
+- GITenberg
+title: The Baronial Halls, and Ancient Picturesque Edifices of England; Vol. 2 of
+  2
+url: http://www.gutenberg.org/ebooks/63482
