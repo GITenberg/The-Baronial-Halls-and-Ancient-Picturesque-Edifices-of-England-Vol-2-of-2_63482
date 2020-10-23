@@ -1,5 +1,8 @@
 _repo: The-Baronial-Halls-and-Ancient-Picturesque-Edifices-of-England-Vol-2-of-2_63482
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63482-h/images/cover.jpg
 creator:
   author:
     agent_name: Hall, S. C. (Samuel Carter)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46274
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Carter_Hall
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63482#The-Baronial-Halls-and-Ancient-Picturesque-Edifices-of-England-Vol-2-of-2
 gutenberg_issued: '2020-10-18'
 gutenberg_type: Text
 identifiers:
